@@ -1,0 +1,48 @@
+<svg width="246" height="185" viewBox="0 0 246 185" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d)">
+<rect x="3" y="2" width="240" height="179" rx="4" fill="white"/>
+</g>
+<rect className="transaction-line" x="19" y="118" width="16" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="19" y="99" width="16" height="1" fill="#00122C"/>
+<rect className="transaction-line" x="19" y="80" width="16" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="19" y="61" width="16" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="19" y="42" width="16" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="51" y="118" width="56" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="51" y="99" width="56" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="51" y="80" width="56" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="51" y="61" width="56" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="51" y="42" width="56" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="123" y="118" width="29" height="1" fill="#00122C"/>
+<rect className="transaction-line" x="123" y="99" width="29" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="123" y="80" width="29" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="123" y="61" width="29" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="123" y="42" width="29" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="168" y="118" width="59" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="168" y="99" width="59" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="19" y="156" width="16" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="19" y="137" width="16" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="51" y="156" width="56" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="51" y="137" width="56" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="123" y="156" width="29" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="123" y="137" width="29" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="168" y="156" width="59" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="168" y="137" width="59" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="168" y="80" width="59" height="1" fill="#00122C"/>
+<rect className="transaction-line" x="168" y="61" width="59" height="1" fill="#C5CCD6"/>
+<rect className="transaction-line" x="168" y="42" width="59" height="1" fill="#C5CCD6"/>
+<rect className="highlighted" x="17.5" y="97.5" width="19" height="4" rx="2" stroke="#00B48F"/>
+<rect className="highlighted" x="121.5" y="116.5" width="32" height="4" rx="2" stroke="#00B48F"/>
+<rect className="highlighted" x="166.5" y="78.5" width="62" height="4" rx="2" stroke="#00B48F"/>
+<path d="M20.25 26H21.59V19.9H23.58V18.85H18.26V19.9H20.25V26ZM24.1985 26H25.4085V23.28C25.4085 22.17 26.0485 21.83 27.1085 21.82V20.69C26.2285 20.7 25.7385 21.09 25.4085 21.75V20.77H24.1985V26ZM29.7355 25.23C29.1355 25.23 28.8955 24.94 28.8955 24.5C28.8955 23.86 29.4855 23.65 30.4055 23.65H31.0255V24.17C31.0255 24.84 30.4755 25.23 29.7355 25.23ZM29.4455 26.1C30.2455 26.1 30.7055 25.81 31.0455 25.36V26H32.2355V22.57C32.2355 21.14 31.3155 20.66 30.1455 20.66C28.9755 20.66 28.0055 21.17 27.9055 22.39H29.0755C29.1355 21.87 29.4455 21.57 30.0755 21.57C30.7855 21.57 31.0255 21.92 31.0255 22.62V22.89H30.3755C28.8755 22.89 27.6955 23.33 27.6955 24.55C27.6955 25.64 28.4855 26.1 29.4455 26.1ZM33.6223 26H34.8323V22.92C34.8323 22.09 35.3823 21.67 36.0623 21.67C36.7823 21.67 37.1023 22.03 37.1023 22.82V26H38.3123V22.71C38.3123 21.27 37.5723 20.66 36.5223 20.66C35.6623 20.66 35.0823 21.09 34.8323 21.6V20.77H33.6223V26ZM41.4963 26.1C42.8363 26.1 43.5863 25.49 43.5863 24.43C43.5863 23.32 42.8563 23.02 41.6263 22.83C40.7963 22.69 40.5463 22.54 40.5463 22.16C40.5463 21.79 40.8563 21.54 41.3763 21.54C41.9363 21.54 42.2063 21.76 42.3063 22.24H43.4263C43.2963 21.06 42.4463 20.66 41.3763 20.66C40.3963 20.66 39.4163 21.18 39.4163 22.23C39.4163 23.21 39.9263 23.6 41.3063 23.82C42.0763 23.95 42.4263 24.11 42.4263 24.54C42.4263 24.98 42.1363 25.21 41.4863 25.21C40.7763 25.21 40.5063 24.9 40.4463 24.37H39.3063C39.3563 25.48 40.1463 26.1 41.4963 26.1ZM46.3077 25.23C45.7077 25.23 45.4677 24.94 45.4677 24.5C45.4677 23.86 46.0577 23.65 46.9777 23.65H47.5977V24.17C47.5977 24.84 47.0477 25.23 46.3077 25.23ZM46.0177 26.1C46.8177 26.1 47.2777 25.81 47.6177 25.36V26H48.8077V22.57C48.8077 21.14 47.8877 20.66 46.7177 20.66C45.5477 20.66 44.5777 21.17 44.4777 22.39H45.6477C45.7077 21.87 46.0177 21.57 46.6477 21.57C47.3577 21.57 47.5977 21.92 47.5977 22.62V22.89H46.9477C45.4477 22.89 44.2677 23.33 44.2677 24.55C44.2677 25.64 45.0577 26.1 46.0177 26.1ZM52.4846 26.1C53.9046 26.1 54.8146 25.25 54.9046 24.05H53.7946C53.7246 24.79 53.1746 25.17 52.5346 25.17C51.6446 25.17 51.0846 24.57 51.0846 23.43V23.35C51.0846 22.27 51.6746 21.63 52.5046 21.63C53.1446 21.63 53.6046 21.92 53.7046 22.62H54.8746C54.7346 21.18 53.6446 20.66 52.4846 20.66C51.0246 20.66 49.8446 21.71 49.8446 23.37V23.45C49.8446 25.12 50.9846 26.1 52.4846 26.1ZM57.7266 26.09C58.0966 26.09 58.3566 26.03 58.5466 25.96V25C58.3766 25.07 58.1966 25.1 57.9566 25.1C57.5766 25.1 57.3566 24.89 57.3566 24.43V21.68H58.5066V20.77H57.3566V19.62H56.1466V20.77H55.4466V21.68H56.1466V24.54C56.1466 25.53 56.6866 26.09 57.7266 26.09ZM60.258 19.91C60.658 19.91 60.978 19.61 60.978 19.22C60.978 18.82 60.658 18.52 60.258 18.52C59.858 18.52 59.538 18.82 59.538 19.22C59.538 19.61 59.858 19.91 60.258 19.91ZM59.668 26H60.878V20.77H59.668V26ZM64.6828 26.1C66.2228 26.1 67.3728 25.04 67.3728 23.41V23.33C67.3728 21.73 66.2228 20.66 64.6928 20.66C63.1528 20.66 62.0028 21.74 62.0028 23.36V23.44C62.0028 25.03 63.1428 26.1 64.6828 26.1ZM64.6928 25.16C63.7728 25.16 63.2428 24.49 63.2428 23.42V23.34C63.2428 22.26 63.7928 21.61 64.6928 21.61C65.5928 21.61 66.1328 22.27 66.1328 23.35V23.42C66.1328 24.49 65.5928 25.16 64.6928 25.16ZM68.4661 26H69.6761V22.92C69.6761 22.09 70.2261 21.67 70.9061 21.67C71.6261 21.67 71.9461 22.03 71.9461 22.82V26H73.1561V22.71C73.1561 21.27 72.4161 20.66 71.3661 20.66C70.5061 20.66 69.9261 21.09 69.6761 21.6V20.77H68.4661V26ZM76.3401 26.1C77.6801 26.1 78.4301 25.49 78.4301 24.43C78.4301 23.32 77.7001 23.02 76.4701 22.83C75.6401 22.69 75.3901 22.54 75.3901 22.16C75.3901 21.79 75.7001 21.54 76.2201 21.54C76.7801 21.54 77.0501 21.76 77.1501 22.24H78.2701C78.1401 21.06 77.2901 20.66 76.2201 20.66C75.2401 20.66 74.2601 21.18 74.2601 22.23C74.2601 23.21 74.7701 23.6 76.1501 23.82C76.9201 23.95 77.2701 24.11 77.2701 24.54C77.2701 24.98 76.9801 25.21 76.3301 25.21C75.6201 25.21 75.3501 24.9 75.2901 24.37H74.1501C74.2001 25.48 74.9901 26.1 76.3401 26.1Z" fill="#00122C"/>
+<defs>
+<filter id="filter0_d" x="0" y="0" width="246" height="185" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="1.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.0705882 0 0 0 0 0.172549 0 0 0 0.13 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>
