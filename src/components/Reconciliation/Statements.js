@@ -39,8 +39,8 @@ const animatedLines = animateLines(6 , 0.2, delay+0.5);
 const StyledStatements = css`
   #statements {
     opacity: 0;
-
     animation: ${opacityAnimation} 0.5s ${delay+0.9}s linear 1 forwards;
+
     #statements-to {
       path.statements-to {
         opacity: 0;
@@ -48,6 +48,7 @@ const StyledStatements = css`
         ${animatedLines};
       }
     }
+    
     path.statements-to-green {
       animation: ${strokeAnimation(lineGray, green)} ${0.4}s ${highlightingDelay}s linear 1 forwards;
     }

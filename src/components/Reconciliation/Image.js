@@ -6,7 +6,6 @@ import StyledTansactions from './Transcation';
 import StyledStatements from './Statements';
 import StyledLinks from './Links';
 
-
 const Container = styled.div`
   position: relative;
   width: 56%;

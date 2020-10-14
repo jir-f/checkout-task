@@ -2,7 +2,8 @@ import {css} from "styled-components";
 import { opacityAnimation, 
   verticalAnimation,
   fillAnimation,
-  strokeAnimation } from '../../styles/keyframes';
+  strokeAnimation 
+} from '../../styles/keyframes';
 import { navyBlue, green, orange } from '../../styles/global';
 
 const speed = 0.5;

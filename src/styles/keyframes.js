@@ -29,9 +29,9 @@ export const opacityAnimation = keyframes`
 			opacity: 0;
 		}
 
-		100% {
-			opacity: 1;
-		}
+	100% {
+		opacity: 1;
+	}
 `
 
 export const fillAnimation = (start, finish) => keyframes`
