@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/checkout-task/static/js/main.50da5c9c.chunk.js",
-    "main.js.map": "/checkout-task/static/js/main.50da5c9c.chunk.js.map",
+    "main.js": "/checkout-task/static/js/main.433313f7.chunk.js",
+    "main.js.map": "/checkout-task/static/js/main.433313f7.chunk.js.map",
     "runtime-main.js": "/checkout-task/static/js/runtime-main.e9881797.js",
     "runtime-main.js.map": "/checkout-task/static/js/runtime-main.e9881797.js.map",
     "static/js/2.6ed8e5f7.chunk.js": "/checkout-task/static/js/2.6ed8e5f7.chunk.js",
     "static/js/2.6ed8e5f7.chunk.js.map": "/checkout-task/static/js/2.6ed8e5f7.chunk.js.map",
     "index.html": "/checkout-task/index.html",
-    "precache-manifest.bba5ae8fd325436ff3ff4895e7704175.js": "/checkout-task/precache-manifest.bba5ae8fd325436ff3ff4895e7704175.js",
+    "precache-manifest.c8a3c8632ebfdf5cf7c5f9e821f98c34.js": "/checkout-task/precache-manifest.c8a3c8632ebfdf5cf7c5f9e821f98c34.js",
     "service-worker.js": "/checkout-task/service-worker.js",
     "static/js/2.6ed8e5f7.chunk.js.LICENSE.txt": "/checkout-task/static/js/2.6ed8e5f7.chunk.js.LICENSE.txt",
     "static/media/Graphik-Regular-Web.woff2": "/checkout-task/static/media/Graphik-Regular-Web.00ef31c1.woff2",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime-main.e9881797.js",
     "static/js/2.6ed8e5f7.chunk.js",
-    "static/js/main.50da5c9c.chunk.js"
+    "static/js/main.433313f7.chunk.js"
   ]
 }
