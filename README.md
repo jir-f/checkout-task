@@ -1,10 +1,6 @@
 ## Checkout.com Task
 The project is built using react [CRA](https://github.com/facebook/create-react-app), styled components and the prismic javascript, prismic react libraries to query the dynamic data.
 
-[Task Design](https://www.figma.com/file/7jvoPB9ewAoT2DsFpZlJqM/Test?node-id=0%3A1)
-
-[API](https://checkout-test.cdn.prismic.io/api/v2)
-
 ## Available Scripts
 
 In the project directory, you can run:
