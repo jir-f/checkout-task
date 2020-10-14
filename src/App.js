@@ -2,8 +2,7 @@ import React, { Fragment } from 'react';
 import {
   BrowserRouter,
   Route,
-  Switch,
-  Redirect
+  Switch
 } from 'react-router-dom';
 import { Reconciliation } from './pages';
 import { GlobalStyle } from './styles';
@@ -15,8 +14,7 @@ function App() {
         <GlobalStyle />
         <BrowserRouter>
           <Switch>
-            <Redirect exact from='/' to='/reconciliation' />
-            <Route exact path='/reconciliation' component={Reconciliation} />
+            <Route path='/' component={Reconciliation} />
           </Switch>
         </BrowserRouter>
       </Fragment>
