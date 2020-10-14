@@ -1,5 +1,3 @@
-import { ReactComponent as Calendar } from './calendar.svg';
-import { ReactComponent as Statements } from './statements.svg';
-import { ReactComponent as Transactions } from './transactions.svg';
+import { ReactComponent as ReconciliationSVG } from './reconciliation.svg';
 
-export { Calendar, Statements, Transactions };
+export { ReconciliationSVG };

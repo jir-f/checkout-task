@@ -10,7 +10,7 @@ import { GlobalStyle } from './styles';
 
 function App() {
   return (
-    <div className="App">
+    <div className="checkout">
        <Fragment>
         <GlobalStyle />
         <BrowserRouter>
