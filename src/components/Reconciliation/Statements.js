@@ -62,8 +62,8 @@ const StyledStatements = css`
         opacity: 0;
         animation: ${horizontalAnimation(20)} 0.2s linear 1 forwards;
         ${animatedLines};
-        display: block;
-        cursor: progress;
+        display: flex;
+        position: absolute;
       }
     }
 
